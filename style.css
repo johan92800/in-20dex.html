@@ -1,0 +1,19 @@
+body{
+     margin:0;
+     height:200hv;
+     display:flex;
+     justify-content:center;
+     align-items:center;
+     font-family:Arial,helvetica,sans-serif;
+}
+
+.carta{
+    background-color: aquamarine;
+    width: 400px;
+    padding:30px;
+    border-radius: 15px;
+    box-shadow: 0px 15px 40px rgba(0,0,0,0.2);
+    text-align: center;
+    transition:transform o.3s ease;
+
+}
